@@ -1,4 +1,6 @@
-# Compresión y Procesamiento de Imágenes mediante SVD 🖼️🔢
+# Compresión y Procesamiento de Imágenes mediante SVD 
+
+![Portada](https://lh3.googleusercontent.com/u/0/d/1uJMIXrvpD8MJiGOULsetzViLO2NKKa0b)
 
 Este repositorio contiene el desarrollo del **Proyecto 3** para la cátedra de Álgebra Lineal y Ciencia de Datos. El objetivo principal es aplicar la **Descomposición en Valores Singulares (SVD)** para analizar el equilibrio entre la calidad visual, el error de reconstrucción y el ahorro de almacenamiento en imágenes digitales.
 
